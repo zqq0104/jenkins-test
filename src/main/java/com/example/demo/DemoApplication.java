@@ -19,7 +19,7 @@ public class DemoApplication {
 	@RequestMapping("/test")
 	@ResponseBody
 	public String test(){
-		return "4.0.0 ok!";
+		return "1.0.0 ok!";
 	}
 
 }
