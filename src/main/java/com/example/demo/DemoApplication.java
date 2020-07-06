@@ -19,7 +19,7 @@ public class DemoApplication {
 	@RequestMapping("/test")
 	@ResponseBody
 	public String test(){
-		return "1  new  test ok!";
+		return "222222222222  new  test ok!";
 	}
 
 }
